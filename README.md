@@ -5,7 +5,8 @@ Input their own Sudoku puzzles
 Solve puzzles instantly or visualize the solving process
 Clear the board and start over
 See statistics about the solving process
-Features
+
+**Features**
 Backtracking Algorithm: Efficiently solves Sudoku puzzles using recursive backtracking
 Interactive GUI: Clean 9x9 grid with clear 3x3 block borders
 Two Solving Modes:
