@@ -1,4 +1,4 @@
-Overview
+**Overview**
 This is a Java-based Sudoku solver application that uses the backtracking algorithm to solve Sudoku puzzles. The application features a graphical user interface (GUI) built with Swing, allowing users to:
 
 Input their own Sudoku puzzles
